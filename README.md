@@ -18,15 +18,14 @@ In the following folders you will find the practices related to the subject:
 <details>
   <summary>Practices</summary>
 
-   <summary>P1</summary>
-   prueba
-  - [P2]
-  - [P3]
-  - [P4]
-  - [P5]
-  - [P6]
-  - [P7]
-  - [P8]
-  - [P9]
-  - [P11]
+  - [P1](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P1)
+  - [P2](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P2)
+  - [P3](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P3)
+  - [P4](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P4)
+  - [P5](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P5)
+  - [P6](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P6)
+  - [P7](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P7)
+  - [P8](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P8)
+  - [P9](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P9)
+  - [P11](https://github.com/Pereirooo/Paradigmas_de_Programacion/tree/main/P11)
 </details>
