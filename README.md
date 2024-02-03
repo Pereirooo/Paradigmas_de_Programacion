@@ -18,8 +18,8 @@ In the following folders you will find the practices related to the subject:
 <details>
   <summary>Practices</summary>
 
-  - <summary>P1</summary>
-  prueba
+   <summary>P1</summary>
+   prueba
   - [P2]
   - [P3]
   - [P4]
