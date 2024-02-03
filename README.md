@@ -12,3 +12,10 @@ If you are interested in looking for theoretical information about this language
 - [More Object info](https://dev.realworldocaml.org/objects.html)
 
 </details>
+
+In the following folders you will find the practices related to the subject:
+
+<details>
+  <summary>Practices</summary>
+  
+</details>
