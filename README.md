@@ -1,5 +1,5 @@
 # Paradigmas_de-_Programacion
-![Ocaml](./assets/ocaml.png)
+![Ocaml](./assets/OCaml_Logo.svg.png)
 Programming Pradigms is a second-year subject that focuses on functional programming using Ocaml.
 
 If you are interested in looking for theoretical information about this language, the following manuals could be useful for you.
